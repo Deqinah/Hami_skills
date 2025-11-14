@@ -64,7 +64,7 @@ list.jpg) | ![onboarding](screenshots/onboarding.jpg)
 ##  How to Run the App
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Deqinah/hami_market3
+   git clone https://github.com/Deqinah/Hami_skills
 
 2. flutter run -d chrome
 
