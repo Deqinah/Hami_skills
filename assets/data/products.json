@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Tufaax",
+    "price": 2.5,
+    "image": "🍎",
+    "description": "Tufaax cusub oo macaan, laga soo raray beeraha Hargaysa.",
+    "category": "Fruits"
+  },
+  {
+    "name": "Moos",
+    "price": 1.8,
+    "image": "🍌",
+    "description": "Moos khafiif ah oo ka yimid Kenya.",
+    "category": "Fruits"
+  },
+  {
+    "name": "Baranbur",
+    "price": 3.2,
+    "image": "🍓",
+    "description": "Baranbur cusub oo macaan, laga soo raray Ethiopia.",
+    "category": "Fruits"
+  },
+  {
+    "name": "Bustaanii",
+    "price": 2.0,
+    "image": "🥦",
+    "description": "Bustaanii cusub oo ka yimid beeraha Somaliland.",
+    "category": "Vegetables"
+  },
+  {
+    "name": "Baradho",
+    "price": 1.5,
+    "image": "🍅",
+    "description": "Baradho macaan oo cusub.",
+    "category": "Vegetables"
+  },
+  {
+    "name": "Qaraha",
+    "price": 2.8,
+    "image": "🥒",
+    "description": "Qaraha cusub oo qurux badan.",
+    "category": "Vegetables"
+  },
+  {
+    "name": "Basal",
+    "price": 1.2,
+    "image": "🧅",
+    "description": "Basal cusub oo macaan.",
+    "category": "Vegetables"
+  },
+  {
+    "name": "Timaatar",
+    "price": 2.0,
+    "image": "🍅",
+    "description": "Timaatar cusub oo ka yimid beeraha Somaliland.",
+    "category": "Vegetables"
+  },
+  {
+    "name": "Batarikh",
+    "price": 4.5,
+    "image": "🥑",
+    "description": "Batarikh cusub oo macaan.",
+    "category": "Fruits"
+  },
+  {
+    "name": "Liin",
+    "price": 1.0,
+    "image": "🍋",
+    "description": "Liin macaan oo cusub.",
+    "category": "Fruits"
+  }
+]
